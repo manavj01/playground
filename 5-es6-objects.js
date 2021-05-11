@@ -19,3 +19,8 @@ const product = {
   stock: 201,
   salePrice: undefined
 }
+
+// const label = product.label
+// const stock = product.stock
+
+const {label,stock } = product
